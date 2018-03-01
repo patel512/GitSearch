@@ -1,0 +1,23 @@
+{
+  "name": "githubsearch",
+  "version": "1.0.0",
+  "description": "A search Wepp app for consuming GitHUB Rest API to display user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patel512/GitSearch.git"
+  },
+  "author": "Sarvottam Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patel512/GitSearch/issues"
+  },
+  "homepage": "https://github.com/patel512/GitSearch#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node": "^9.5.0"
+  }
+}
